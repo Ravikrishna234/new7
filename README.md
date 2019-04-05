@@ -1,1 +1,2 @@
-# new7
+# heroku-shoppingcart
+Shopping cart app
