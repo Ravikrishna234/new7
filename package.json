@@ -14,7 +14,7 @@
   "author": "ravi",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "body-parser": "~1.15.0",
     "express-session": "~1.13.0",
     "redis": "~2.6.0-2",
